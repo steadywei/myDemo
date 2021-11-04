@@ -1,2 +1,2 @@
 # myDemo
-somee demo for use
+some demo for use
